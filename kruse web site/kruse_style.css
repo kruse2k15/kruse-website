@@ -1,0 +1,52 @@
+/* css Deocument*/
+}
+.text_container {
+  position: relative;
+  display: inline-block;
+}
+
+.centered{
+  top:50%;
+  text-align: center;
+  font-size: 24px;
+  font-family:Arial ,sans-serif;
+  color: white;
+  padding-right: 8%;
+
+  }
+
+.sansserif {
+  text-align: right;
+  text-decoration: none;
+  font-family:Arial ,sans-serif;
+  color: white;
+  padding-right: 8%;
+}
+.grid-container{
+  display: grid-;
+  grid-gap: 15px;
+
+}
+
+.grid-item{
+  grid-gap: 15px;
+}
+
+.links{
+  text-align: right;
+  text-decoration: none;
+  font-family:Arial ,sans-serif;
+  color: white;
+  padding-right: 4%;
+
+}
+ .links:hover,h2:hover, a href:hover {
+    color: rgb(255, 90, 145););
+}
+
+
+body{
+  background-image: url("kruse imges/kruse background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
